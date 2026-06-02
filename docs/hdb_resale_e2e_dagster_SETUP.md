@@ -690,4 +690,10 @@ sources:
       - name: public_hdb_resale_flat_prices_e2e
         description: "Raw monthly HDB transaction records"
 ```
+Finally run the following to view the pipeline.
+
+```bash
+dagster dev
+```
+
 
